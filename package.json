@@ -1,0 +1,20 @@
+{
+  "name": "node-jwa",
+  "version": "1.0.0",
+  "description": "Node.js JSON WHOIS API client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "whois",
+    "api"
+  ],
+  "author": "BinaryZeph",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.5.0",
+    "unirest": "^0.5.1"
+  }
+}
